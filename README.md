@@ -1,5 +1,9 @@
 # nuxt-2
 
+- ✅ Use `@directus/sdk` v10.
+- ❌ `nuxt-directus` is not working well here
+- ❌ `@directus/sdk` v11 is also not running properly
+
 ## Build Setup
 
 ```bash
@@ -40,7 +44,6 @@ More information about the usage of this directory in [the documentation](https:
 Layouts are a great help when you want to change the look and feel of your Nuxt app, whether you want to include a sidebar or have distinct layouts for mobile and desktop.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/layouts).
-
 
 ### `pages`
 
